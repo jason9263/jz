@@ -1,0 +1,181 @@
+1:
+
+idl fetch code.uber.internal/adtech/ucm/campaign-manager/entities.thrift
+2:
+
+idl fetch code.uber.internal/cme/rt-products/rt_products.thrift
+3:
+
+idl fetch code.uber.internal/cme/rt-products/rt_productsv2.thrift
+4:
+
+idl fetch code.uber.internal/communications/bloc/bloc.thrift
+5:
+
+idl fetch code.uber.internal/communications/texter/texter.thrift
+6:
+
+idl fetch code.uber.internal/core_services/common/common.thrift
+7:
+
+idl fetch code.uber.internal/core_services/ucommerce/ucommerce.thrift
+8:
+
+idl fetch code.uber.internal/crack/luna-core/luna_core.thrift
+9:
+
+idl fetch code.uber.internal/crack/luna-core/point_award_rules.thrift
+10:
+
+idl fetch code.uber.internal/crack/luna-core/tool.thrift
+11:
+
+idl fetch code.uber.internal/crack/luna-gateway/benefits.thrift
+12:
+
+idl fetch code.uber.internal/crack/luna-gateway/hub.thrift
+13:
+
+idl fetch code.uber.internal/data/michelangelo-rest/common/feature_store.thrift
+14:
+
+idl fetch code.uber.internal/data/michelangelo-rest/common/tm_model.thrift
+15:
+
+idl fetch code.uber.internal/data/michelangelo-rest/deployment/michelangeloprocessor.thrift
+16:
+
+idl fetch code.uber.internal/data/michelangelo-rest/michelangelo_api/michelangelo_api.thrift
+17:
+
+idl fetch code.uber.internal/data/treatment/treatment.thrift
+18:
+
+idl fetch code.uber.internal/driver/learning/development.thrift
+19:
+
+idl fetch code.uber.internal/driver/learning/learning.thrift
+20:
+
+idl fetch code.uber.internal/everything/eats-promotion-gateway/eats_promotion_gateway.thrift
+21:
+
+idl fetch code.uber.internal/everything/eats-promotion-gateway/promotion_campaigns.thrift
+22:
+
+idl fetch code.uber.internal/everything/eats-promotion-gateway/promotion_models.thrift
+23:
+
+idl fetch code.uber.internal/everything/eats-promotion-store/promotion_internal.thrift
+24:
+
+idl fetch code.uber.internal/everything/eats-store/eats_menu.thrift
+25:
+
+idl fetch code.uber.internal/everything/eats-store/eats_store.thrift
+26:
+
+idl fetch code.uber.internal/everything/eats-store/menu.thrift
+27:
+
+idl fetch code.uber.internal/everything/thrift-types/common.thrift
+28:
+
+idl fetch code.uber.internal/everything/ue-predictor/uepredictor.thrift
+29:
+
+idl fetch code.uber.internal/fraud/fraud-actions/fraud_actions.thrift
+30:
+
+idl fetch code.uber.internal/fraud/quantum/quantum.thrift
+31:
+
+idl fetch code.uber.internal/freight/freight-facility/schedule.thrift
+32:
+
+idl fetch code.uber.internal/freight/idl-common/time.thrift
+33:
+
+idl fetch code.uber.internal/freight/ufo/ufo.thrift
+34:
+
+idl fetch code.uber.internal/growth/compliance-screenings/compliance_screenings.thrift
+35:
+
+idl fetch code.uber.internal/growth/signup-incentives-core/staggered-campaign/referrals_staggered_campaign.thrift
+36:
+
+37:
+
+idl fetch code.uber.internal/lm/fievel/search_payloads.thrift
+38:
+
+idl fetch code.uber.internal/marketplace/dice/dice.thrift
+39:
+
+idl fetch code.uber.internal/meff/multipass/multipass.thrift
+40:
+
+idl fetch code.uber.internal/money/BANKEMOJI/BANKEMOJI.thrift
+41:
+
+idl fetch code.uber.internal/money/moneyaccess/moneyaccess.thrift
+42:
+
+idl fetch code.uber.internal/money/payment-integration-interface/payment_integration.thrift
+43:
+
+idl fetch code.uber.internal/money/uberpay/types.thrift
+44:
+
+idl fetch code.uber.internal/money/uberpay/uberpay_ux.thrift
+45:
+
+idl fetch code.uber.internal/odp/flowbulk/flowbulk.thrift
+46:
+
+idl fetch code.uber.internal/odp/legos/legos.thrift
+47:
+
+idl fetch code.uber.internal/odp/uspaces/uspaces.thrift
+48:
+
+idl fetch code.uber.internal/pricing/wayfare/tsdk.thrift
+49:
+
+idl fetch code.uber.internal/rex/buffet/buffetcardpayload.thrift
+idl fetch code.uber.internal/rt/realtime-api/models/deviceinspection.thrift
+50:
+
+idl fetch code.uber.internal/rt/realtime-api/models/pricingdata.thrift
+51:
+
+idl fetch code.uber.internal/rt/x0-idl-models/base.thrift
+52:
+
+idl fetch code.uber.internal/safety/comet/comet.thrift
+53:
+
+idl fetch code.uber.internal/starcraft/order-platform/common.thrift
+54:
+
+idl fetch code.uber.internal/starcraft/order-platform/oj_money.thrift
+55:
+
+idl fetch code.uber.internal/starcraft/order-platform/orders.thrift
+56:
+
+idl fetch code.uber.internal/starcraft/products/products.thrift
+57:
+
+idl fetch code.uber.internal/u4b/swingline-v2/swingline_v2.thrift
+58:
+
+idl fetch code.uber.internal/u4b/u4b-gateway/presentation.thrift
+59:
+
+idl fetch code.uber.internal/u4b/u4b-gateway/u4b_gateway.thrift
+60:
+
+idl fetch code.uber.internal/xp/xpc/xpc.thrift
+There are some changed thrift and proto files.
